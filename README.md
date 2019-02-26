@@ -1,3 +1,4 @@
+## DP-157 Demo Project
 
 DP-157 Demo Project is a sample project to demostrate one click deployment of a web app.<br/>
 The web app used is an online store hosted in IIS using SQL server DB for persistent data store.<br/>
