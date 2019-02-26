@@ -8,11 +8,16 @@ Vagrant is used to manage the project infrastructure consisting of a  IIS, hoste
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+You can clone the project using git or you can download it as .ZIP file and unzip it to selected folder.<br/>
+Ensure you have all items describes at Prerequisites section. No additional preparation required.
 ### Prerequisites
 
-What things you need to install the software and how to install them
+- Windows x64 10 PC
+- RAM at least 8Gb
+- 60+ Gb free space available at your HDD or SDD
+- Vagrant latest version installed. You can download it here https://www.vagrantup.com/downloads.html
+- Virtual Box latest version installed. You can download it here https://www.virtualbox.org/wiki/Downloads
+- Base knowledge of CMD command using.
 
 ```
 Give examples
