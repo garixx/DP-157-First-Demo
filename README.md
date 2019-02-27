@@ -63,7 +63,7 @@ Give an example
 
 ## Deployment
 
-DP-157-First-Demo/deployDiag.png 
+![alt text](https://raw.githubusercontent.com/garixx/DP-157-First-Demo/master/DP-157-First-Demo/deployDiag.png)  
 
 ## Built With
 
