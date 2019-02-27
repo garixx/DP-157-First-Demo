@@ -63,7 +63,7 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+![alt text](https://raw.githubusercontent.com/garixx/DP-157-First-Demo/edit/master/deployDiag.png)
 
 ## Built With
 
